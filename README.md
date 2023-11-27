@@ -1,6 +1,8 @@
 # QuickDraw
 ## Introduction :
-Hello there, I am Thanh Minh Truong, this is my python source code about Deep Learning - Image Classification with Quick Draw dataset - an online game developed by Google.
+Hello there, I am Thanh Minh Truong, this is one of my beginnings in the process of learning AI
+
+Here is my python source code about Deep Learning - Image Classification with Quick Draw dataset - an online game developed by Google.
 
 I used **Pytorch** framework for my project, this includes:
 1. Preprocessing and validating input images and labels
@@ -40,7 +42,10 @@ This is result:
 ![Valid](https://github.com/mThanh1311/quickdraw_classification/blob/main/experiments/tensorboard-val.png)
 ## Confunsion matrix:
 ![Conf_matrix](https://github.com/mThanh1311/quickdraw_classification/blob/main/experiments/tensorboard-conf-matrix.png)
-## Result
+## Test
+Run ```
+test.py ``` with images for testing in folder **test_imaged**
+
 ![Test](https://github.com/mThanh1311/quickdraw_classification/blob/main/experiments/test.png)
 ## Requirements :
 * python 3.10
