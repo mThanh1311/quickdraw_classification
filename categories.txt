@@ -1,0 +1,20 @@
+apple
+banana
+basketball
+book
+clock
+cloud
+eye
+flip flops
+flower
+hat
+key
+moon
+pillow
+pizza
+star
+sun
+t-shirt
+table
+underwear
+zigzag
