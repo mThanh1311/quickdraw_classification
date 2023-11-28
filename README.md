@@ -10,6 +10,8 @@ I used **Pytorch** framework for my project, this includes:
 3.  Model training
 4.  Model evaluation
 5.  Testing
+
+*In the future, i will use pen (or any object) with color red. When we are drawing some object (like star, moon,...), model will give a prediction of the object we draw*
 ## Dataset:
 The dataset used for training my model could be found at [Quick Draw dataset] https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap. Here I only picked up 20 files for 20 categories
 ## Categories:
