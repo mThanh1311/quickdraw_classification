@@ -31,7 +31,7 @@ I downloaded .npy file corresponding to 20 classes and store them in folder [**D
 After that, I will run this scripts in the ```terminal```:
 
 ```
-python trian.py -r 0.8 -s 1000 -b 8 -e 10 -o Adam -l 0.001
+python train.py -r 0.8 -s 1000 -b 8 -e 10 -o Adam -l 0.001
  ```
 ## Checkpoint:
 I save the checkpoint to the [**checkpoint/best.pth folder**](https://github.com/mThanh1311/quickdraw_classification/blob/main/checkpoint/best.pth) after the training process
